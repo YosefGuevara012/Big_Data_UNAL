@@ -1,0 +1,1 @@
+https://nbviewer.jupyter.org/github/YosefGuevara012/Big_Data_UNAL/blob/master/Homeworks/Jupyter/linear_regresion.ipynb
