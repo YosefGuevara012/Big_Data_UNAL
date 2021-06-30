@@ -1,4 +1,4 @@
-# Big_Data_UNAL
+# Big Data UNAL
 
 This repository contains all the homeworks and exercises for the Big Data Lectures imparted by the Colombian National University conducted by Alvaro Mauricio Montenegro Diaz
 
